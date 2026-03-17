@@ -1,2 +1,1 @@
-# RatEmpireBridge
-Bridge Bot for Rat Empire! [WIP]
+# :link: Hypixel PyBridge: Python bridgebot for hypixel guilds.

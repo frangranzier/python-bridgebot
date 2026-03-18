@@ -1,1 +1,1 @@
-# :link: Hypixel PyBridge: Python bridgebot for hypixel guilds.
+# :link: Python bridgebot for hypixel guilds.

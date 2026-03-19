@@ -1,0 +1,6 @@
+{
+    "latestLogPath":"", // Put the path to your latest.log file inside the "" after the :
+    "bridgeBotIgn":"", // Put the IGN of your bridge bot account inside the "" after the :
+    "webhookUrl":"", // Put the URL of the discord webhook inside the "" after the :
+    "botDcToken":"" // Put the token of the discord bot inside the "" after the :
+}

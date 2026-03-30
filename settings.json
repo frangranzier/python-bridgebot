@@ -1,0 +1,6 @@
+{
+    "latestLogPath":"Put the path to your latest.log (found inside .minecraft/logs) file here! (Make sure it ends in latest.log)",
+    "bridgeBotIgn":"Put the IGN of your bridge bot's account here!",
+    "webhookUrl":"Put the URL of your webhook here!",
+    "botDcToken":"Put the token of your discord bot here!"
+}

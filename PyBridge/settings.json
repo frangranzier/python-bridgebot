@@ -1,6 +1,6 @@
 {
-    "latestLogPath":"", // Put the path to your latest.log file inside the "" after the :
-    "bridgeBotIgn":"", // Put the IGN of your bridge bot account inside the "" after the :
-    "webhookUrl":"", // Put the URL of the discord webhook inside the "" after the :
-    "botDcToken":"" // Put the token of the discord bot inside the "" after the :
+    "latestLogPath":"/Users/frang/Library/Application Support/ModrinthApp/profiles/skyblock2 1.0.0/logs/latest.log",
+    "bridgeBotIgn":"SnowyFranzz",
+    "webhookUrl":"https://discord.com/api/webhooks/1405281846098399242/hKFpSOciNjRDt5x4DLRB260EHQQLW8MdFULV4Pu2qT3M2G6aIPQSprmw3utAoApwSR_y",
+    "botDcToken":"ECDS1AQ__Vzd9n17XID4Tv1Z0ALawK1K"
 }

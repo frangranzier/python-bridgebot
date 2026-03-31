@@ -3,4 +3,5 @@
     "bridgeBotIgn":"Put the IGN of your bridge bot's account here!",
     "webhookUrl":"Put the URL of your webhook here!",
     "botDcToken":"Put the token of your discord bot here!"
+    IMPORTANT! -> DELETE THIS LINE AND RENAME THE FILE TO settings.json
 }
